@@ -1,0 +1,1 @@
+print('Full name:Mariam Khaled\nBirth:22/12/2001\nFaculty:engineering\nEmail:mayooo19555@gmail.com\nAddress:Cairo')
